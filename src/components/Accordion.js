@@ -31,7 +31,7 @@ function Accordion() {
         </span>
       </div>
       {accordion ? (
-        <div className="bg-slate-200 w-full p-2 rounded-lg  ">
+        <div className="bg-slate-200 w-full p-2 rounded-lg text-slate-900 ">
           کودکی نوپا وخرد سال، مقداری نپخت و بیعوده که در سنین بسیار کودک سالی
           شروع به کار جارو کشی در کافه کاج کرد, روند کار او در کافه گل گندم
           پیشرفت کرد و به جارو کشی قهار تبدیل شد. او بعد از مدتی کار در دکه,
